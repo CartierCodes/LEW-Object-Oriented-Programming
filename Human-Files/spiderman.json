@@ -1,0 +1,14 @@
+{
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "preferredName": "Spiderman",
+    "email": "peterjparker@gmail.com",
+    "phoneNumber": "224-523-3959",
+    "city": "New York City",
+    "state": "NY",
+    "zip": "11101",
+    "lat": "40.75",
+    "lng": "-73.81",
+    "favoriteHobby": "Saving the world",
+    "seatLocation": ""
+}
